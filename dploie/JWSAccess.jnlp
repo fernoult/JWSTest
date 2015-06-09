@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8080/JWSTest/" href="JWSTAccess.jnlp">
+
+	<information>
+		<title>Mon Logiciel par JNLP</title>
+		<vendor>Francois ERNOULT</vendor>
+		
+		<icon href="jwstest.ico" width="64" height="64"/>
+		<shortcut online="true">
+			<desktop/>
+			<menu submenu="JWSTest"/>
+		</shortcut>
+	</information>
+
+	<resources>
+		<j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+		<jar href="http://localhost:8080/JWSTest/jwstest.jar"/>
+	</resources>
+
+	<application-desc main-class="jwst.JWSTAccess" />
+
+</jnlp>
