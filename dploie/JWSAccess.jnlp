@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp spec="1.0+" codebase="http://localhost:8080/JWSTest/" href="JWSTAccess.jnlp">
+<jnlp spec="1.0+" codebase="http://localhost:8080/JWSTest/" href="JWSAccess.jnlp">
 
 	<information>
 		<title>Mon Logiciel par JNLP</title>
